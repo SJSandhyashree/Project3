@@ -1,2 +1,1 @@
-# Project3
-dice game using  html,css,javascript
+# dice_game_starting_files
